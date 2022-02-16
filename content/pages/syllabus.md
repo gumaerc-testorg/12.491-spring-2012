@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 96aeb2f6-9ec0-6d77-a18f-c821f7480906
 ---
@@ -86,7 +88,7 @@ How mass-spectrometer works
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Clumped isotope CO2, 13CH3D
+Clumped isotope CO{{< sub "2" >}}, {{< sup "13" >}}CH{{< sub "3" >}}D
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +115,7 @@ Mass-dependent fractionation O-17 small anomaly
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Mass-independent fractionation, O-17, Ozone, CO, stratspheric CO2, NO3, SO4
+Mass-independent fractionation, O-17, Ozone, CO, stratspheric CO{{< sub "2" >}}, NO{{< sub "3" >}}, SO{{< sub "4" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

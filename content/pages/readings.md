@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d0d55637-d0de-a0fb-85ac-793d4650bea5
 ---
@@ -25,10 +28,10 @@ Bergquist, Bridget A., and Joel D. Blum. "[The Odds and Evens of Mercury Isotope
 
 Estrade, Nicolas, Jean Carignan, et al. "[Mercury isotope fractionation during liquid–vapor evaporation experiments](http://dx.doi.org/10.1016/j.gca.2009.01.024)." _Geochimica et Cosmochimica Acta_ 73, no. 10 (2009): 2693–711.
 
-N2O Isotopomers
----------------
+N{{< sub "2" >}}O Isotopomers
+-----------------------------
 
-Santoro, Alyson E., Carolyn Buchwald, et al. "[Isotopic Signature of N2O Produced by Marine Ammonia-Oxidizing Archaea](http://dx.doi.org/10.1126/science.1208239)." _Science_ 333, no. 6047 (2011): 1282–5.
+Santoro, Alyson E., Carolyn Buchwald, et al. "[Isotopic Signature of N{{< sub "2" >}}O Produced by Marine Ammonia-Oxidizing Archaea](http://dx.doi.org/10.1126/science.1208239)." _Science_ 333, no. 6047 (2011): 1282–5.
 
 Frame, C. H., and K. L. Casciotti. "[Biogeochemical controls and isotopic signatures of nitrous oxide production by a marine ammonia-oxidizing bacterium](http://dx.doi.org/10.5194/bg-7-2695-2010)." _Biogeosciences_ 7, no. 9 (2010): 2695–709.
 
@@ -39,12 +42,12 @@ Clumped Isotope Thermometry
 
 Eiler, John M. "[Paleoclimate reconstruction using carbonate clumped isotope thermometry](http://dx.doi.org/10.1016/j.quascirev.2011.09.001)." _Quaternary Science Reviews_ 30, no. 25–26 (2011): 3575–88.
 
-Eagle, Robert A., Edwin A. Schauble, et al. "[Body temperatures of modern and extinct vertebrates from 13C-18O bond abundances in bioapatite](http://dx.doi.org/10.1073/pnas.0911115107)." _Proceedings of National Academy of Sciences_ 107, no. 23 (2010): 10377–82.
+Eagle, Robert A., Edwin A. Schauble, et al. "[Body temperatures of modern and extinct vertebrates from {{< sup "13" >}}C-{{< sup "18" >}}O bond abundances in bioapatite](http://dx.doi.org/10.1073/pnas.0911115107)." _Proceedings of National Academy of Sciences_ 107, no. 23 (2010): 10377–82.
 
-Eagle, Robert A., Thomas Tütken, et al. "[Dinosaur Body Temperatures Determined from Isotopic (13C-18O) Ordering in Fossil Biominerals](http://dx.doi.org/ 10.1126/science.1206196)." _Science_ 333, no. 6041 (2011): 443–5.
+Eagle, Robert A., Thomas Tütken, et al. "[Dinosaur Body Temperatures Determined from Isotopic ({{< sup "13" >}}C-{{< sup "18" >}}O) Ordering in Fossil Biominerals](http://dx.doi.org/ 10.1126/science.1206196)." _Science_ 333, no. 6041 (2011): 443–5.
 
-Atmospheric 17O/O in Solar Wind
--------------------------------
+Atmospheric {{< sup "17" >}}O/O in Solar Wind
+---------------------------------------------
 
 Young, Edward D., Albert Galy, et al. "[Kinetic and equilibrium mass-dependent isotope fractionation laws in nature and their geochemical and cosmochemical significance](http://dx.doi.org/10.1016/S0016-7037(01)00832-8)." _Geochimica et Cosmochimica Acta_ 66, no. 6 (2002): 1095–104.
 
@@ -83,7 +86,7 @@ Weiss, Dominik J., Mark Rehkdmper, et al. "[Application of Nontraditional Stable
 Sulfate Reducer vs. Disproportionation
 --------------------------------------
 
-Canfield, Donald E., Bo Thamdrup. "[The Production of δ34S - Depleted Sulfide During Bacterial Disproportionation of Elemental Sulfur](http://www.jstor.org/stable/2885277)." _Science_ 266, no. 5193 (1994): 1973–5.
+Canfield, Donald E., Bo Thamdrup. "[The Production of δ{{< sup "34" >}}S - Depleted Sulfide During Bacterial Disproportionation of Elemental Sulfur](http://www.jstor.org/stable/2885277)." _Science_ 266, no. 5193 (1994): 1973–5.
 
 Johnston, David T., Boswell A. Wing, et al. "[Active Microbial Sulfur Disproportionation in the Mesoproterozoic](http://dx.doi.org/10.1126/science.1117824)." _Science_ 310, no. 5753 (2005): 1477–9.
 
@@ -91,17 +94,17 @@ Sim, Min Sub., Tanja Bosak, et al. "[Large Sulfur Isotope Fractionation Does Not
 
 Habicht, Kirsten S., and Donald E. Canfield. "[Isotope fractionation by sulfate-reducing natural populations and the isotopic composition of sulfide in marine sediments](http://geology.gsapubs.org/content/29/6/555.full)." _Geology_ 29, no. 6 (2001): 555–8.
 
-17O Hydrology
--------------
+{{< sup "17" >}}O Hydrology
+---------------------------
 
-Angert, Alon, Christopher D. Cappa, et al. ["Kinetic 17O effects in the hydrologic cycle: Indirect evidence and implications](http://dx.doi.org/10.1016/j.gca.2004.02.010)." _Geochimica et Cosmochimica Acta_ 68, no. 17 (2004): 3487–95.
+Angert, Alon, Christopher D. Cappa, et al. ["Kinetic {{< sup "17" >}}O effects in the hydrologic cycle: Indirect evidence and implications](http://dx.doi.org/10.1016/j.gca.2004.02.010)." _Geochimica et Cosmochimica Acta_ 68, no. 17 (2004): 3487–95.
 
-Landais, Amaelle, Eugeni Barkan, et al. "[Record of δ18O and 17O-excess in ice from Vostok Antarctica during the last 150,000 years](http://dx.doi.org/10.1029/2007GL032096)." _Geophysical Research Letter_ 35 (2008): 5.
+Landais, Amaelle, Eugeni Barkan, et al. "[Record of δ{{< sup "18" >}}O and {{< sup "17" >}}O-excess in ice from Vostok Antarctica during the last 150,000 years](http://dx.doi.org/10.1029/2007GL032096)." _Geophysical Research Letter_ 35 (2008): 5.
 
-Luz, Boaz, and Eugeni Barkan. "[Variations of 17O/16O and 18O/16O in meteoric waters](http://dx.doi.org/10.1016/j.gca.2010.08.016)." _Geochimica et Cosmochimica Acta_ 74, no. 22 (2010): 6276–86.
+Luz, Boaz, and Eugeni Barkan. "[Variations of {{< sup "17" >}}O/{{< sup "16" >}}O and {{< sup "18" >}}O/16{{< sup "O" >}} in meteoric waters](http://dx.doi.org/10.1016/j.gca.2010.08.016)." _Geochimica et Cosmochimica Acta_ 74, no. 22 (2010): 6276–86.
 
-Miller, Martin F. "[Isotopic fractionation and the quantification of 17O anomalies in the oxygen three-isotope system: an appraisal and geochemical significance](http://dx.doi.org/10.1016/S0016-7037(02)00832-3)." _Geochimica et Cosmochimica Acta_ 66, no. 11 (2002): 1881–9.
+Miller, Martin F. "[Isotopic fractionation and the quantification of {{< sup "17" >}}O anomalies in the oxygen three-isotope system: an appraisal and geochemical significance](http://dx.doi.org/10.1016/S0016-7037(02)00832-3)." _Geochimica et Cosmochimica Acta_ 66, no. 11 (2002): 1881–9.
 
-———. "[Comment on "Record of δ18O and 17O-excess in ice from Vostok Antarctica during the last 150,000 years" by Amaelle Landais et al](http://dx.doi.org/10.1029/2008GL034505)." _Geophysical Research Letters_ 35 (2008): 3.
+———. "[Comment on "Record of δ{{< sup "18" >}}O and {{< sup "17" >}}O-excess in ice from Vostok Antarctica during the last 150,000 years" by Amaelle Landais et al](http://dx.doi.org/10.1029/2008GL034505)." _Geophysical Research Letters_ 35 (2008): 3.
 
 Sessions, Alex L., and John M. Hayes. "[Calculation of hydrogen isotopic fractionations in biogeochemical systems](http://dx.doi.org/10.1016/j.gca.2004.08.005)." _Geochimica et Cosmochimica Acta_ 69, no. 3 (2005): 593–7.
