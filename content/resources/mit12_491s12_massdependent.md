@@ -6,6 +6,7 @@ file: /courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Mass-Dependent and -Independent Fractionation of Hg Isotopes by Photoredu
 uid: 6383a716-08a7-1dd9-8fcb-1d1612cc4e4d
 ---
 Example student presentation on mass-dependent and -independent fractionation of Hg isotopes by photoreduction in aquatic systems.
-

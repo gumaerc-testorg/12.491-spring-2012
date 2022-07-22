@@ -6,6 +6,7 @@ file: /courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Equilibrium iron isotope fractionation factors of minerals: Reevaluation
 uid: b4fbbc97-9c0e-5912-90de-8663ddebe9c9
 ---
 Example student presentation on equilibrium iron isotope fractionation factors of minerals.
-

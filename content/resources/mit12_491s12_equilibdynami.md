@@ -5,6 +5,7 @@ file: /courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Summary of Estrade et al. 2009 (Geochimica et Cosmochimica Acta) '
 uid: d127ac02-613b-9a46-ac18-9bbae4de171f
 ---
 Example student presentation on equilibrium and dynamic evaporation experiments.
-

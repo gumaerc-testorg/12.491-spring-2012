@@ -6,6 +6,7 @@ file: /courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: A bistable organic-rich atmosphere on the Neoarchean Earth
 uid: 81d5fe82-a191-1608-0715-5336b5952035
 ---
 Example student presentation on a bistable organic-rich atmosphere on the Neoarchaean Earth.
-

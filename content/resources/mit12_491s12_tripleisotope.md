@@ -6,6 +6,7 @@ file: /courses/12-491-non-conventional-light-stable-isotope-geochemistry-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Triple-isotope composition of atmospheric oxygen as a tracer of biosphere
 uid: 51adb687-d13a-9251-c582-639d320f95db
 ---
 Example student presentation on triple-isotope composition of atmospheric oxygen as a tracer of biosphere productivity.
-
